@@ -7,7 +7,7 @@
     </a>
 </p>
 <p align="center">
-    jvqhjose@gmail.com
+    orlando.cervantes.garcia@gmail.com
 </p>
 ### Me apasiona la programación.
 
