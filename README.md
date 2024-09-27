@@ -29,7 +29,7 @@
 ---
 
 <p align="center">
-    <a target="_blank" href="https://github.com/OrlandoCervantesGarcia@gmail.com">
+    <a target="_blank" href="https://github.com/OrlandoCervantesGarcia">
       <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
     </a>
     <a target="_blank" href="https://www.linkedin.com/in/OrlandoCervantesGarcia/">
